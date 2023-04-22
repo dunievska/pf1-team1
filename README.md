@@ -2,7 +2,7 @@
 
 ## Ten projekt jest naszym cwiczeniem z gita nr 2 - praca w grupie
 
-Projekt możesz zobaczyc tutaj:
+Projekt możesz zobaczyc [_tutaj_](https://dunievska.github.io/pf1-team1/)
 
 # Zespół team1:
 
